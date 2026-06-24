@@ -86,7 +86,7 @@ const SERVICE_JSON_LD = buildServiceSchema({
 const BREADCRUMB_JSON_LD = buildBreadcrumbSchema("Nieuwe website laten maken", PATH);
 const FAQ_JSON_LD = buildFaqSchema(LANDING_FAQ);
 
-export default function webshop LatenMakenPage() {
+export default function WebshopLatenMakenPage() {
   return (
     <main className="wlm" id="top">
       <script
