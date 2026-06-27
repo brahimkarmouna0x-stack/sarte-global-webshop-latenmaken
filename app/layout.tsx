@@ -117,6 +117,7 @@ export const metadata: Metadata = {
     "msapplication-TileColor": SITE.themeColor,
     "msapplication-TileImage": "/favicon/mstile-144x144.png?v=6",
     "msapplication-config": "/browserconfig.xml",
+    "google-site-verification": "Yd_L6ndqiIGeOpqrktovY1rCUvg1YZc1JkQLHOsQW_8",
   },
   formatDetection: {
     email: false,
